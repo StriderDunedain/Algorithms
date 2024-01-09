@@ -1,2 +1,2 @@
 # Algorithms
-All my knowledge about algorithms (which is, naturally, still growing) visualized in Minecraft!
+Will fill soon - code smth first
